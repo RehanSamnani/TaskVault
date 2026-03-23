@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Study algorithms",
+    "status": "pending",
+    "created_at": "2026-03-07"
+  },
+  {
+    "id": 2,
+    "title": "Study binary search",
+    "status": "pending",
+    "created_at": "2026-03-23"
+  },
+  {
+    "id": 3,
+    "title": "Build TaskVault project",
+    "status": "pending",
+    "created_at": "2026-03-23"
+  },
+  {
+    "id": 4,
+    "title": "Read about file I/O in Python",
+    "status": "pending",
+    "created_at": "2026-03-23"
+  },
+  {
+    "id": 5,
+    "title": "Learn Python",
+    "status": "pending",
+    "created_at": "2026-03-23"
+  }
+]
